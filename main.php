@@ -192,7 +192,7 @@ body {
     margin-left: auto;
     margin-top: 10px;
     margin-bottom: 7px;
-    background-image: url(https://i.postimg.cc/Y0bzR36Q/fd24e808cee5646da0a5911480941c9d.jpg);
+    background-image: url(https://i.postimg.cc/c1XRVF3n/db63d1bda153417acc17618effa38951.jpg);
     background-attachment: fixed;
     background-size: 85rem;
     background-position: center;
